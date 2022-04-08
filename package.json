@@ -1,0 +1,27 @@
+{
+  "name": "base-library-react18",
+  "version": "1.0.0",
+  "description": "基于react18的基础项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patienceroll/base-library-react18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patienceroll/base-library-react18/issues"
+  },
+  "homepage": "https://github.com/patienceroll/base-library-react18#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
